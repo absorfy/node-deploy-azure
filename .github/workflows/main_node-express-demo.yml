@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: node-express-demo-bsajhwg2ftahfndp
+  AZURE_WEBAPP_NAME: node-express-demo
   NODE_VERSION: "22.x"  # узгодь з версією в App Service
 
 jobs:
