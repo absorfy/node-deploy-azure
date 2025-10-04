@@ -10,7 +10,7 @@ permissions:
 
 env:
   AZURE_WEBAPP_NAME: node-express-demo-bsajhwg2ftahfndp
-  NODE_VERSION: "18"
+  NODE_VERSION: "22"
 
 jobs:
   build-and-deploy:
